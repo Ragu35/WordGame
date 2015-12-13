@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 798106955e6f99b45a1376b5ce3eec54
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tMesh: {fileID: 10278852, guid: 509a88351f684df44a98b6d4b9e8b31b, type: 2}
+  - tRend: {fileID: 2378850, guid: 509a88351f684df44a98b6d4b9e8b31b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

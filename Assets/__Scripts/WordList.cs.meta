@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7a545f0a9f96c0e45a259f68882f74c1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wordListText: {fileID: 4900000, guid: 22e5a51e6732c452fab90efed574a934, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
